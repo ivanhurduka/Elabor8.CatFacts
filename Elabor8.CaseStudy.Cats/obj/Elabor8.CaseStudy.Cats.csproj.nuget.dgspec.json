@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rowie\\Source\\Repos\\ivanhurduka\\Elabor8.CatFacts\\Elabor8.CaseStudy.Cats\\Elabor8.CaseStudy.Cats.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rowie\\Source\\Repos\\ivanhurduka\\Elabor8.CatFacts\\Elabor8.CaseStudy.Cats\\Elabor8.CaseStudy.Cats.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rowie\\Source\\Repos\\ivanhurduka\\Elabor8.CatFacts\\Elabor8.CaseStudy.Cats\\Elabor8.CaseStudy.Cats.csproj",
+        "projectName": "Elabor8.CaseStudy.Cats",
+        "projectPath": "C:\\Users\\rowie\\Source\\Repos\\ivanhurduka\\Elabor8.CatFacts\\Elabor8.CaseStudy.Cats\\Elabor8.CaseStudy.Cats.csproj",
+        "packagesPath": "C:\\Users\\rowie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rowie\\Source\\Repos\\ivanhurduka\\Elabor8.CatFacts\\Elabor8.CaseStudy.Cats\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rowie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[27.2.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.2.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[107.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
